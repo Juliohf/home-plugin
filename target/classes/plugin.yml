@@ -1,0 +1,18 @@
+name: HomePlugin
+version: '1.0-SNAPSHOT'
+main: com.juliohf.homePlugin.HomePlugin
+api-version: '1.21'
+author: "Julio França"
+commands:
+  sethome:
+    description: Salva uma home
+    usage: /<command> <home_name>
+  home:
+    description: Teleporta para uma home salva
+    usage: /<command> <home_name>
+  delhome:
+    description: Deleta uma home
+    usage: /<command> <home_name>
+  homes:
+    description: Lista todas homes salvas
+    usage: /<command>
