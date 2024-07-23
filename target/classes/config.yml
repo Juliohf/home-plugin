@@ -1,2 +1,4 @@
+#Coloque o tempo em segundos
 cooldown: 60
+#Coloque a partícula desejada. Ex: GLOW, HEART, CHERRY_LEAVES, PORTAL
 particle-effect: 'FLAME'
